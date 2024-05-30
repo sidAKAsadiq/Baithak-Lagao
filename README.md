@@ -21,7 +21,7 @@ Baithak Lagao! is the ultimate forum for everyone. Enroll yourself in Baithak an
 - Django Rest Framework
 ### Database
 - SQLite
-- Learning Experience
+
 
 
 ### About the Name
